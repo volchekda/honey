@@ -1,9 +1,10 @@
 body{
-	background-image:url(DSC.jpg);
+	background:url(DSC.jpg);
 	background-size:cover;
-	width:800px;
-	Height:800px;
+	width:100%;
+	Height:100%;
 	overflow:hidden;
+	margin:0;
 	
 	
 }
