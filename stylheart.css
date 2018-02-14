@@ -1,5 +1,5 @@
 body{
-	background:url(DSC.jpg);
+	background:url(DSC.JPG);
 	background-size:cover;
 	width:100%;
 	Height:100%;
@@ -7,14 +7,7 @@ body{
 	margin:0;
 	
 }
-.fot{
-	background:url(DSC.jpg);
-	background-size:cover;
-	width:100px;
-	Height:100px;
-	overflow:hidden;
 
-}
 .heart {
 	position: absolute;
 	width: 100px;
